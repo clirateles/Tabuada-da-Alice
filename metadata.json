@@ -1,0 +1,6 @@
+{
+  "name": "Tabuada Mágica da Alice",
+  "description": "App de tabuada para a Alice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
